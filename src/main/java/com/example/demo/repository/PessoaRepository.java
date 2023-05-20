@@ -1,5 +1,5 @@
 package com.example.demo.repository;
 
-public class PessoaRepository extends Jparepository<Pessoa, Long> {
+public class PessoaRepository extends JpaRepository<Pessoa, Long> {
     
 }
